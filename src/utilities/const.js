@@ -1,0 +1,5 @@
+export const INTIAL_MAP_ZOOM = 14;
+export const INITIAL_MAP_CENTER = {
+  lat: 5.812536662946469,
+  lng: 102.13168633068325,
+};
